@@ -1,0 +1,501 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Death in a new dress: or Sportive funeral elegies. Commemorating the renowned lives and lamented deaths of these eminent personages, Robbin the annyseed-water seller. Martin Parker the famous poet. Archee the late kings jester. The gentlewoman that so often travail'd up Holborn-Hill upon her bum, &amp;c. With the celebration of some (harmless but plesant healths) hitherto not in fashion: and other drollerical crotchets, very delightful. / By S.F.</title>
+            <author>S. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85163</idno>
+            <idno type="STC">Wing F54</idno>
+            <idno type="STC">Thomason E885_11</idno>
+            <idno type="EEBO-CITATION">99866388</idno>
+            <idno type="PROQUEST">99866388</idno>
+            <idno type="VID">168402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168402)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E885[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Death in a new dress: or Sportive funeral elegies. Commemorating the renowned lives and lamented deaths of these eminent personages, Robbin the annyseed-water seller. Martin Parker the famous poet. Archee the late kings jester. The gentlewoman that so often travail'd up Holborn-Hill upon her bum, &amp;c. With the celebration of some (harmless but plesant healths) hitherto not in fashion: and other drollerical crotchets, very delightful. / By S.F.</title>
+                  <author>S. F.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Isaac Pridmore at the signe of the Falcon neer the New Exchange,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "August 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>M. P. --  (Martin Parker), d. 1656? --  Early works to 1800.</term>
+               <term>Armstrong, Archie, d. 1672 --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168402:1" rendition="simple:additions"/>
+            <p>
+               <hi>DEATH in a New DRESS:</hi> OR Sportive Funeral ELEGIES.</p>
+            <p>Commemorating the renowned Lives and lamented Deaths of theſe Eminent Perſonages,
+<list>
+                  <item>
+                     <hi>Robbin</hi> the Annyſeed-water Seller.</item>
+                  <item>
+                     <hi>Martin Parker</hi> the famous Poet.</item>
+                  <item>
+                     <hi>Archee</hi> the late Kings Jeſter.</item>
+                  <item>The Gentlewoman that ſo often tra<g ref="char:EOLhyphen"/>vail'd up <hi>Holborn-Hill</hi> upon her Bum, &amp;c.</item>
+               </list>
+            </p>
+            <p>
+               <hi>WITH</hi>
+               <lb/> The Celebration of ſome (harmleſs but pleſant <hi>Healths</hi>) hitherto not in faſhion: And other Drollerical Crotchets, very delightful.</p>
+            <p>By <hi>S. F.</hi>
+            </p>
+            <p>LONDON, Printed for ISAAC PRIDMORE at the Signe of the <hi>Falcon</hi> neer the <hi>New Exchange,</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="occasional_poems">
+            <pb facs="tcp:168402:2"/>
+            <pb facs="tcp:168402:2"/>
+            <head>
+               <hi>DEATH in a new DRESSE:</hi> OR Sportive Funeral ELEGIES: Commemorating the Renowned Lives, and Lamented Deaths of theſe Eminent Perſonages,
+<list>
+                  <item>
+                     <hi>Robbin</hi> the Annyſeed-water Seller.</item>
+                  <item>
+                     <hi>Martin Parker</hi> the famous Poet.</item>
+                  <item>
+                     <hi>Archee</hi> the late Kings Jeſter.</item>
+                  <item>And the Gentlewoman that ſo often travail'd up <hi>Holborn-Hill</hi> upon her Bum, &amp;c.</item>
+               </list>
+            </head>
+            <head type="sub">With other pleaſant Crotchets.</head>
+            <div type="part">
+               <head>On the Death of Annyſeed-water <hi>Robbin.</hi>
+               </head>
+               <head type="sub">AN ELEGIE.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">H</seg>Ave I not waited long enough; five years,</l>
+                  <l>And yet no <hi>Heliconian</hi> Quack appears</l>
+                  <l>In print, to manifeſt his mighty skill?</l>
+                  <l>This Theam would ſeat him on the Muſes Hill</l>
+                  <l>
+                     <pb facs="tcp:168402:3"/>
+Higher then <hi>Phoebus</hi> ſelf; Ye glorious<note n="*" place="margin">Samuel Smith<g ref="char:EOLhyphen"/>ſon. Hum<g ref="char:EOLhyphen"/>phrey Crowch. Law<g ref="char:EOLhyphen"/>rence Price.</note> three</l>
+                  <l>Who graſp the Poles of Star-crown'd Poeſie;</l>
+                  <l>Has ſom Cask-piercing<note n="†" place="margin">Drawer Smal<g ref="char:EOLhyphen"/>beer.</note> Youth poiſon'd your wine</l>
+                  <l>With wicked <hi>Laethe?</hi> Did you ever dine</l>
+                  <l>On Turnep-tops, without or Salt, or Butter,</l>
+                  <l>That amongſt all your Canzonets, or clutter</l>
+                  <l>You fail'd to mention this deceaſed <hi>Robbin,</hi>
+                  </l>
+                  <l>It ſeems you ne'r-quaft <hi>Nectar</hi> in his Noggin,</l>
+                  <l>As I have done; then may my Verſe be mighty</l>
+                  <l>Spirited by his potent <hi>Aqua-vitae:</hi>
+                  </l>
+                  <l>Was not thy voyce (dear <hi>Robbin</hi>) very ſweet?</l>
+                  <l>Wert thou not wondred at in every Street?</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Anyſeed-water,</hi>
+                  </l>
+                  <l>
+                     <hi>Water fine;</hi>
+                  </l>
+                  <l>
+                     <hi>Water that paſſes</hi>
+                  </l>
+                  <l>
+                     <hi>Ale or Wine.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thy tongue took every man (for 'twas a charm)</l>
+                  <l>But then that woodden Veſſel on thy Arm</l>
+                  <l>Was more magnetick, 'twas a Peſt'lence Can</l>
+                  <l>Could put the Staggers on the Puritan;</l>
+                  <l>Yet <hi>Ananias</hi> Goggle-eyes would ſwear it,</l>
+                  <l>By <hi>Yea</hi> and <hi>Nay,</hi> Brother I can't forbear it;</l>
+                  <l>This is ſome Son of <hi>Belial,</hi> (and his Punk)</l>
+                  <l>Who has in charge to make the godly drunk:</l>
+                  <l>
+                     <pb facs="tcp:168402:3"/>
+How many whim-crown'd Shees (the chaſte, chaſte Wives</l>
+                  <l>Of witty Citizens) did owe their lives</l>
+                  <l>To thy Spagirick Water, when the<note n="*" place="margin">Fits of the Mo<g ref="char:EOLhyphen"/>ther.</note> Qualm</l>
+                  <l>Could not be laid by Spell, or <hi>Hopkins</hi> Pſalm,</l>
+                  <l>Drench her but with a Cup of <hi>Robbin</hi>'s <hi>Nectar,</hi>
+                  </l>
+                  <l>And next Morn ſend her to St. <hi>Anthlin</hi>'s Lecture,</l>
+                  <l>She ſhal do wel; How many aged <hi>Sybils</hi>
+                  </l>
+                  <l>Taſting thy Stream, would have their Quirks and Quibbles,</l>
+                  <l>Dancing devoutly, who ſome hours before</l>
+                  <l>Sat like Stone Statues ore a Portal dore;</l>
+                  <l>Nor wert thou fram'd (as I my ſelf can tell)</l>
+                  <l>Without the Adjunct of a miracle;</l>
+                  <l>Probleme of Sexes; Natures Jumble; <hi>Adam</hi>
+                  </l>
+                  <l>And <hi>Eve</hi> conglutinated; <hi>Sir,</hi> or <hi>Madam;</hi>
+                  </l>
+                  <l>
+                     <hi>Harry,</hi> or <hi>Madge;</hi> a Knight and Lady Errant,</l>
+                  <l>With <hi>Rem in Re,</hi> and double Badge for warrant;</l>
+                  <l>A <hi>Philip</hi> and <hi>Mary;</hi> thou couldſt do</l>
+                  <l>The office of the Man and Woman too:</l>
+                  <l>Rare Enigmatick <hi>Robbin,</hi> when grown great</l>
+                  <l>With-child thy ſelf, thou couldſt perform the feat;</l>
+                  <l>Which gives the world Inhabitants, ſo we</l>
+                  <l>(We muſt confeſs) are doubly bound to thee:</l>
+                  <l>But this (though great) is not the chiefeſt matter,</l>
+                  <l>Where, now, ſhal we attain ſuch heavenly water;</l>
+                  <l>(Such Chymical <hi>Nepenthe</hi>) that has made</l>
+                  <l>More haughty Beggers of the Ryming trade</l>
+                  <l>
+                     <pb facs="tcp:168402:4"/>
+Then <hi>Helicon</hi> it ſelf; while thou didſt give</l>
+                  <l>Thy Veſſel vent, <hi>John Lookes</hi> himſelf did live,</l>
+                  <l>And learned <hi>Taylor</hi> play'd upon his Lyre,</l>
+                  <l>(With happy Ale and Wildings) by the fire:</l>
+                  <l>Weep then (with me) all you that had the hap</l>
+                  <l>To taſte of that which flow'd from <hi>Robbin</hi>'s Tap:</l>
+                  <l>O partial Fate! that which did others ſave,</l>
+                  <l>Could not protect our <hi>Robbin</hi> from the Grave.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>HEALTHS.</head>
+               <l>HEre's a Health to that Serving-man ne'r had's head-bare,</l>
+               <l>And a Health to that Poet, whoſe cloak was ne'r thredbare.</l>
+               <l>Here's a Health to that Punk, never took Money,</l>
+               <l>Though proffer'd it for the uſe of her —</l>
+               <l>Here's a Health to that Cook, that ne'r likt his fingers,</l>
+               <l>To the late Coſt-wold-Games, and the <hi>Clerkenwel</hi> Ringers.</l>
+               <l>Here's a Health to that Player that never was proud,</l>
+               <l>And to a <hi>Billinſgate</hi> Scold that never talk'd loud.</l>
+               <l>Here's a Health to that Letcher that never was luſtfull,</l>
+               <l>And to that Grandee of State that never was diſtruſtfull.</l>
+               <l>Here's a Health to that Hoſt that loves to be Scoring,</l>
+               <l>And to that Royſter that never lov'd Roring.</l>
+               <l>Here's a Health to that Captain that never drew Sword,</l>
+               <l>And a Catch-pole that's honeſt in's deed and his word.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:168402:4"/>
+               <head>On the Death of the most Renowned Poet, Mr. <hi>Martin Parker.</hi>
+               </head>
+               <head type="sub">An ELEGIE.</head>
+               <lg>
+                  <l>HOw has it happen'd (ſpeak ye tardy <hi>Nine</hi>)</l>
+                  <l>That glorious <hi>Parker</hi> (he whoſe every line</l>
+                  <l>Deſerves a Panegyre) has all this while</l>
+                  <l>Slept like a Slave, beneath his Funeral Pile,</l>
+                  <l>And no new <hi>Johnſon, Dun,</hi> or learned <hi>Gill,</hi>
+                  </l>
+                  <l>To Dub the diſtillations of his Quill,</l>
+                  <l>To Canonize his Canzonets, which are</l>
+                  <l>Yet extant on each Market-day, or Fair.</l>
+                  <l>Spirit of <hi>Orpheus; Archimedes</hi> skill</l>
+                  <l>Would fail (ſhould he bring in his tedious Bill)</l>
+                  <l>To number all thy curious Canticles,</l>
+                  <l>Thy Octaves, Epiceds, and Madrigals,</l>
+                  <l>Which (as was us'd of old) did kindly greet</l>
+                  <l>The peoples ears, as they did paſs the ſtreet;</l>
+                  <l>Sung to the pleaſant Treble and the Baſe,</l>
+                  <l>The Small or Great, the Sharp or Flat, to grace</l>
+                  <l>Thy ſublime Sonnets; was not every Song</l>
+                  <l>Of thine applauded by the thirſty throng,</l>
+                  <l>So (as to <hi>Thracian Orpheus</hi>) Trees did nod</l>
+                  <l>When thou wert worried by the <hi>Delphick</hi> god;</l>
+                  <l>
+                     <pb facs="tcp:168402:5"/>
+And Stones did move; nay, gave a vocal ſound,</l>
+                  <l>Till with loud laughter every verſe was crown'd.</l>
+                  <l>Here thou wert <hi>Pindar, Alceus, Moſchus, Bion</hi>
+                  </l>
+                  <l>
+                     <hi>Apollos</hi> lov'd one, and the Muſes Lion:</l>
+                  <l>But theſe were but thy ſports; ſome minutes ſpent</l>
+                  <l>In <hi>Mimmick</hi> ſtate, to palliate meriment:</l>
+                  <l>Let us behold thee in thy <hi>German</hi> Story,</l>
+                  <l>There thou art <hi>Lucan,</hi> while thy Muſe (all glory)</l>
+                  <l>Does ſing the <hi>Auſtrian</hi> Ruines in a tone</l>
+                  <l>More ſtrong then <hi>Stentors,</hi> with O hone! O hone!</l>
+                  <l>Say'ſt thou ſo <hi>Silius;</hi> here are other things,</l>
+                  <l>The Deeds of <hi>Pacolet,</hi> and <hi>Pagan</hi> Kings:</l>
+                  <l>Oh! in what ſtately Verſe thou didſt diſcourſe on</l>
+                  <l>The Doughty deeds of <hi>Valentine</hi> and <hi>Orſon;</hi>
+                  </l>
+                  <l>Dull Proſe before, and fit for Boyes and Girles,</l>
+                  <l>Thine for the ſolace of great Lords and Earls.</l>
+               </lg>
+               <lg>
+                  <l>Speak ye nine Siſters, for ye only know</l>
+                  <l>Whence did this ſprightly ſparkling Torrent flow;</l>
+                  <l>How has our <hi>Parker</hi> above all inſpir'd</l>
+                  <l>His Lines ſo much cry'd up, ſo much deſir'd?</l>
+                  <l>I have't; He alwayes bath'd his Beak in Ale,</l>
+                  <l>Toping whole Tubs off, like ſome thirſty Whale;</l>
+                  <l>
+                     <hi>Phoebus</hi> and <hi>Hermes</hi> gave their joint conſent</l>
+                  <l>Their Prieſt ſhould keep a Tippling Tenement:</l>
+                  <l>
+                     <hi>Martin</hi> might well do more then <hi>Goffe</hi> or <hi>Graunger,</hi>
+                  </l>
+                  <l>VVho (like a Horſe) fed at the Muſes Manger.</l>
+                  <l>
+                     <pb facs="tcp:168402:5"/>
+                     <hi>Hyperion</hi>'s Hoſt is ſunk beneath his Barrels,</l>
+                  <l>Ceaſ then your hom-bred Feuds, &amp; ſtint your quar<g ref="char:EOLhyphen"/>rels</l>
+                  <l>Ye that pretend to be his Heirs; in Sooth-la</l>
+                  <l>Ye do diſhonour the deceaſed Youth-la;</l>
+                  <l>All that ye ought to minde are Sighes and Tears,</l>
+                  <l>Death-beds and Funerals, and Scriveners ears;</l>
+                  <l>VVeep, weep, until the floud-gates of your eyes</l>
+                  <l>Do drown the world for <hi>Parker</hi>'s Obſequies.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>EXECRATIONS.</head>
+               <l>A Curſe on that Coxcomb that never ſpends penny,</l>
+               <l>But he inwardly weeps for the loſs of his mony;</l>
+               <l>So, a curſe on that Courteſan never is merrie,</l>
+               <l>But when ſhe is feaſted with Pheaſant and Sherrie:</l>
+               <l>And the ſame curſe attend him refuſes to pledge it,</l>
+               <l>When the Health deſerves honor, and Truth does alledge it.</l>
+               <l>A curſe on that Cockatrice, and her hot Rump,</l>
+               <l>That at one ſingle vie gives a clap and a Thump.</l>
+               <l>A Pox of that Poet ne'r tipples Canary,</l>
+               <l>His Purſe over full, and his Pate over wary:</l>
+               <l>With forty five curſes on him that denies</l>
+               <l>A fair Ladies Option, when longing ſhe lies.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:168402:6"/>
+               <head>On the Death of <hi>Archee</hi> the late Kings JESTER.</head>
+               <head type="sub">An ELEGIE.</head>
+               <l>GIve room ye Ghoſts of <hi>Tarlton, Scoggin, Summers,</hi>
+               </l>
+               <l>
+                  <hi>Minerva</hi>'s Maſquers, and the Muſes Mummers;</l>
+               <l>Puppets for Potent Kings to play withall,</l>
+               <l>(Part Orthodox, and part Apochryphall;)</l>
+               <l>Great ARCHEE comes (with Hobby-Horſe and Tabor)</l>
+               <l>To crack a merry Jeſt with Sir <hi>Iohn Swabber:</hi>
+               </l>
+               <l>We that were made onely to eat up Corn,</l>
+               <l>And till we die, ne'r know why we were born,</l>
+               <l>Are our owne <hi>Zanies,</hi> we can ſing <hi>Ho, Ho,</hi>
+               </l>
+               <l>And ſlaver like to Fools in Follo;</l>
+               <l>Out-do <hi>Iack Adams</hi> in his frantick fits,</l>
+               <l>And ſeem moſt ſolid when we want our Wits.</l>
+               <l>But Kings are vext with real cares; each day</l>
+               <l>As it dilates the height of Soveraign ſway,</l>
+               <l>So it Augments the horror; ARCHEES Coate</l>
+               <l>And Cap will tell ye he's a man of Note:</l>
+               <l>Great <hi>Charls</hi> (whoſe wiſdome all the world admires)</l>
+               <l>Would warm himſelf by ARCHEE'S witty fire:</l>
+               <l>How then has thy great name ſlept all this while,</l>
+               <l>And no <hi>Virgilian</hi> Quill, in haughty ſtyle</l>
+               <l>
+                  <pb facs="tcp:168402:6"/>
+Seating thy Fame on Stilts (with golden Pen)</l>
+               <l>And thou walkt ore the heads of other men?</l>
+               <l>Let not thy <hi>Manes</hi> mourn, that I dare venter</l>
+               <l>To ſtretch thy ſtrong-nerv'd Fame upon the Tenter,</l>
+               <l>And tell the world how much thy Jeſts do merit,</l>
+               <l>Read but thy Book; they'l find thy glorious ſpirit</l>
+               <l>Did ſoar as far above the wit of <hi>Scoggin</hi>
+               </l>
+               <l>As a Horſe-hoof does differ from a Noggin:</l>
+               <l>That Medley of the men of <hi>Gotam</hi> (ſurely</l>
+               <l>For matter and for manner penn'd moſt purely)</l>
+               <l>Is but a ſpurious Sprig; but thine a Tree</l>
+               <l>Of Knowledge; we may pluck and taſte of thee,</l>
+               <l>And never know our nakedneſs; thy crime</l>
+               <l>Moſt learned <hi>Laud,</hi> muſt brook the Jerk of Time</l>
+               <l>For bringing our dear ARCHEE in diſgrace,</l>
+               <l>Who rent'ſt his Coat off, outing him his place</l>
+               <l>With dreadful Obloquie (for kicks are things</l>
+               <l>Are hardly brookt by Jeſters and by Kings)</l>
+               <l>How like a Martyr didſt thou bear theſe wrongs,</l>
+               <l>The frowns of Courtiers, and the forked tongues</l>
+               <l>Of Antler'd Citizens? If Patience bee</l>
+               <l>A ſublime Virtue, there belongs to thee</l>
+               <l>A Triple-crown of glory, thou doſt reſt</l>
+               <l>For ſome few years, for (ſure) thou dy'dſt in Jeſt;</l>
+               <l>And we (no doubt) ſhall know thee once again</l>
+               <l>When ere we have a King to Rule and Reign.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:168402:7"/>
+               <head>HEALTHS.</head>
+               <l>HEre's a Health to 'that Tapſter that never froath'd Can,</l>
+               <l>To that Virgin that marries, but not to know man:</l>
+               <l>To that Pimp and that Bawd that never took Fee,</l>
+               <l>To that Uſuring Miſer that loves to be free:</l>
+               <l>To that Prieſt that in Pulpit never told lie</l>
+               <l>(If a Presbyter <hi>Jack,</hi> or an <hi>American</hi> Spie:)</l>
+               <l>A Health to that Farmer that ſighs when Corn's dear,</l>
+               <l>To that <hi>Pryn</hi> and that <hi>Baſtwick</hi> that never loſt Ear:</l>
+               <l>To that <hi>Hounſ-ditch</hi> Broaker that hates to be Knaviſh;</l>
+               <l>To him that haunts Whores, yet loaths to be laviſh.</l>
+            </div>
+            <div type="part">
+               <head>On the Gentlewoman that ſo often travail'd up <hi>Holborn-Hill</hi> upon her Bum.</head>
+               <head type="sub">AN ELEGIE.</head>
+               <l>THis is a Task indeed, and will require</l>
+               <l>A large Torch lighted with <hi>Phaebean</hi> fire,</l>
+               <l>To fing thy worth (rare <hi>Woman</hi>) who wert once-one</l>
+               <l>Fit for the Muſe of <hi>Fletcher, Dun,</hi> or <hi>Johnſon:</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:168402:7"/>
+How then ſhall I ſufficiently expreſs</l>
+               <l>Thy fulgent figure in its native Dreſs,</l>
+               <l>VVho wert thy Sexes miracle? They Jump</l>
+               <l>On Cork-heel'd Stilts, but thou on Hand &amp; Rump</l>
+               <l>Didſt travail 'bout the Town, each leap of thine</l>
+               <l>VVould puzzle <hi>Spencer</hi> (though inſpir'd w<hi rend="sup">th</hi> wine)</l>
+               <l>Thy Hands were arm'd w<hi rend="sup">th</hi> wood, thy Bum w<hi rend="sup">th</hi> lea<g ref="char:EOLhyphen"/>ther</l>
+               <l>That might defie the dint of dirty weather;</l>
+               <l>A Vaulting <hi>Sybill;</hi> when thou wouldſt diſpenſe</l>
+               <l>VVith time, how heavenly was thy Eloquence?</l>
+               <l>VVhat moving Oratorie, that would pull</l>
+               <l>Pity from Thieves, make Miſers mercifull?</l>
+               <l>A general gravity thou ſtill didſt fling</l>
+               <l>About thee, to our general wondering.</l>
+               <l>So (to the honour of the Common-wealth)</l>
+               <l>VVe ne'r were merry till we drank thy Health,</l>
+               <l>VVhich when gone round (with ſtricteſt celebra<g ref="char:EOLhyphen"/>tion,</l>
+               <l>Being <hi>Olympick</hi> in its operation)</l>
+               <l>Caus'd the Boon <hi>Delphick</hi> God himſelf appear,</l>
+               <l>Vowing to keep his <hi>Bacchanalias</hi> there:</l>
+               <l>Thou ne'r wert nam'd but with a general hum,</l>
+               <l>Mention the Lady, that upon her Bum</l>
+               <l>Jigg'd it up <hi>Holborn-Hill,</hi> each head was bare,</l>
+               <l>Though thatcht with Beaver, Periwigg'd with hair</l>
+               <l>New purchas'd; and as much Devotion ſeen</l>
+               <l>As they had memoriz'd ſome <hi>Eaſtern</hi> Queen:</l>
+               <l>
+                  <pb facs="tcp:168402:8"/>
+Shall we then ſuffer ſuch a Saint to fall,</l>
+               <l>And not erect ſome rich Aeſcuriall?</l>
+               <l>Though thou wert not embalm'd (like other Slurs)</l>
+               <l>But wert inter'd (in private) with thy Guts,</l>
+               <l>Didſt want a Hearſe (by ſable Steeds drawn on)</l>
+               <l>A Herald, and a gilt Eſcocheon</l>
+               <l>Thou ſhalt not miſs that Fame that has been com<g ref="char:EOLhyphen"/>mon</l>
+               <l>(Thank byaſs'd Fate) to many a worſer woman:</l>
+               <l>And while the world laſts, thou ſhalt ſit like Puſs</l>
+               <l>In Majeſtie; thy name ador'd by us.</l>
+            </div>
+            <div type="part">
+               <head>EXECRATIONS.</head>
+               <l>LEt the Fiend ceaze him that ſteals away</l>
+               <l>Juſt when he knows the Reckoning's to pay;</l>
+               <l>So him that makes it his pride and delight</l>
+               <l>To Fautorize Feuds, but dares not to fight:</l>
+               <l>The ſame curſe on him ne'r ſpeaks as he thinks,</l>
+               <l>That cheriſhes Coxcombs, and talks as he drinks:</l>
+               <l>So him that will cenſure before 'a does know it,</l>
+               <l>Or that may have a Fortune, and yet will forgo it.</l>
+               <l>A halter take him that hates to hear ſenſe,</l>
+               <l>Or that numbers his friends, as 'a tels ore his pence.</l>
+               <l>
+                  <pb facs="tcp:168402:8"/>
+Hell ceaze her (or elſe ſome place that is worſe)</l>
+               <l>That loves a man merely for's Back and his Purſe:</l>
+               <l>The like hap to him (who dreading no crimes)</l>
+               <l>VVill be any thing that ſhall pleaſure the Times.</l>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
